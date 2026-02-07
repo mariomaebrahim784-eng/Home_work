@@ -24,6 +24,6 @@ void main() {
     }
   }
 
-  // لو وصلنا هنا → المستخدم خسر
+  
   print('Sorry! The correct number was $secretNumber');
 }
