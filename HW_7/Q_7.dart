@@ -11,7 +11,6 @@ void main() {
       sum += number % 10;
       number ~/= 10;
     }
-
     number = sum;
   }
 

@@ -16,4 +16,3 @@ void main() {
   print(containsDuplicate([1, 2, 3, 1])); 
   print(containsDuplicate([1, 2, 3, 4])); 
 }
-
