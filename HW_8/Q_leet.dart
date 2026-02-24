@@ -14,5 +14,7 @@ bool isAnagram(String s, String t) {
 
 void main() {
   print(isAnagram("anagram", "nagaram")); 
-  print(isAnagram("rat", "car"));         
-}
+  print(isAnagram("rat", "car")); 
+  
+
+  }
